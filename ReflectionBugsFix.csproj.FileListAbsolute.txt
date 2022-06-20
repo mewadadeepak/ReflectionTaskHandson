@@ -1,0 +1,8 @@
+C:\Training\DotNetTraining\ReflectionBugsFix\ReflectionBugsFix\obj\Debug\ReflectionBugsFix.csproj.AssemblyReference.cache
+C:\Training\DotNetTraining\ReflectionBugsFix\ReflectionBugsFix\obj\Debug\ReflectionBugsFix.csproj.SuggestedBindingRedirects.cache
+C:\Training\DotNetTraining\ReflectionBugsFix\ReflectionBugsFix\obj\Debug\ReflectionBugsFix.csproj.CoreCompileInputs.cache
+C:\Training\DotNetTraining\ReflectionBugsFix\ReflectionBugsFix\bin\Debug\ReflectionBugsFix.exe.config
+C:\Training\DotNetTraining\ReflectionBugsFix\ReflectionBugsFix\bin\Debug\ReflectionBugsFix.exe
+C:\Training\DotNetTraining\ReflectionBugsFix\ReflectionBugsFix\bin\Debug\ReflectionBugsFix.pdb
+C:\Training\DotNetTraining\ReflectionBugsFix\ReflectionBugsFix\obj\Debug\ReflectionBugsFix.exe
+C:\Training\DotNetTraining\ReflectionBugsFix\ReflectionBugsFix\obj\Debug\ReflectionBugsFix.pdb
